@@ -34,5 +34,11 @@
 	</dict>
 	<key>WKRunsIndependentlyOfCompanionApp</key>
 	<true/>
+	<key>NSHealthClinicalHealthRecordsShareUsageDescription</key>
+	<string>We will use your health information to monitor your heart rate and give you notifications based on these</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>We will use your health information to monitor your heart rate and give you notifications based on these</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>We will use your health information to monitor your heart rate and give you notifications based on these</string>
 </dict>
 </plist>
